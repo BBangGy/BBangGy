@@ -7,6 +7,13 @@
 -덕화중학교 졸업<br>
 -Capitalhill Elementry School Grad<br>
 
+## Study
+- Java<br>
+- React<br>
+- Html<br>
+- Css<br>
+- JavaScript<br>
+
 <!--
 **BBangGy/BBangGy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
