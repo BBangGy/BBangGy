@@ -2,10 +2,10 @@
 안녕하세요 지금 영남대학교에 재학중인 정현규 입니다.
 
 ## Career
--영남대학교 컴퓨터공학과 재학중/n
--경북고등학교 졸업
--덕화중학교 졸업
--Capitalhill Elementry School Grad
+-영남대학교 컴퓨터공학과 재학중.
+-경북고등학교 졸업.
+-덕화중학교 졸업.
+-Capitalhill Elementry School Grad.
 
 <!--
 **BBangGy/BBangGy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
