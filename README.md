@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**BBangGy/BBangGy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ## Introduction
 안녕하세요 지금 영남대학교에 제학중인 정현규 입니다.
 
@@ -12,6 +6,12 @@ Here are some ideas to get you started:
 -경북고등학교 졸업
 -덕화중학교 졸업
 -Capitalhill Elementry School Grad
+
+<!--
+**BBangGy/BBangGy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
