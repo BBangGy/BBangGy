@@ -70,9 +70,5 @@
 
 <div align="center">
 
-💬 **Contact Me**  
-📧 Email: your_email@example.com  
-🌐 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-🖥️ Portfolio: [Your Portfolio Link](https://your-portfolio.com)
 
 </div>
