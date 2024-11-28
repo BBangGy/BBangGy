@@ -38,6 +38,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBANGGYU&show_icons=true&theme=radical)
+
+
 
 <!--
 **BBangGy/BBangGy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
