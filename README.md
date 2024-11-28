@@ -8,6 +8,7 @@
 - 덕화중학교 졸업<br>
 - Capitalhill Elementry School Grad<br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBANGGYU&layout=compact)
 # 🚀 Tech Stack
 
 ## 🖥️ Frontend
