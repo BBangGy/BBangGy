@@ -12,9 +12,9 @@
 - Capitalhill Elementry School Grad<br>
 </div>
 
-<div align="center">
+/*<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBANGGYU&layout=compact" alt="Top Langs"/>
-</div>
+</div>*/
 
 # 🚀 Tech Stack
 
