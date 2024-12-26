@@ -25,8 +25,8 @@
 <div align="center">
 
 ## 📊 **GitHub Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=BBANGGYU&show_icons=true&theme=radical" alt="GitHub Stats" height="150px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBANGGYU&layout=compact&theme=radical" alt="Top Languages" height="150px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BBangGy&show_icons=true&theme=radical" alt="GitHub Stats" height="150px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBangGy&layout=compact&theme=radical" alt="Top Languages" height="150px"/>
 
 </div>
 
